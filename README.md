@@ -1,2 +1,2 @@
 # mywebsite
-index.html
+<link="index.html"> 
